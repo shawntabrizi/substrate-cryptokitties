@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea323764441236d80b033a4ace9c45b6",
+    "revision": "2ebce0ba209c1cd07c1d8ff5bb5bb747",
     "url": "/substratekitties/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/substratekitties/static/css/2.5e6d1935.chunk.css"
   },
   {
-    "revision": "479ee625658f3a57eeed",
+    "revision": "75f8d267025794b46516",
     "url": "/substratekitties/static/css/main.3de485f8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/substratekitties/static/js/2.fd77b60e.chunk.js"
   },
   {
-    "revision": "479ee625658f3a57eeed",
-    "url": "/substratekitties/static/js/main.7f4837a1.chunk.js"
+    "revision": "75f8d267025794b46516",
+    "url": "/substratekitties/static/js/main.312863e6.chunk.js"
   },
   {
     "revision": "f4ab2a4aff5a553c4600",
